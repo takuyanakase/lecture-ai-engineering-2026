@@ -45,8 +45,8 @@
 - 変えた設定やデータ： "num_train_epochs":20→10に変更,他は変更なし
 - 結果（比較表や数字）：  
   -学習前：`format_rate` =　9.5% / `content_rate` =　0.0%	
-  -学習後：`format_rate` =　81.0% / `content_rate` =　81.0%
-  エポック数20の場合と比べて、学習後のformat_rateは同等も、content_rateは低下。但し、計算時間は短縮化した。  
+  -学習後：`format_rate` =　81.0% / `content_rate` =　81.0%  
+  エポック数20の場合と比べて、学習後のformat_rateは同等も、content_rateは低下。一方、計算時間は短縮化した。  
   -退行した質問：なし
 - ファインチューニングが向く場面・向かない場面についての考察：  
   -向く場面：  
