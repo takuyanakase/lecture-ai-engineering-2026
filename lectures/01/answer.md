@@ -22,7 +22,7 @@
 - 取り組んだレベル：基礎
 
 - やったこと：  
-    -0.同じ質問（「VLMとは何ですか？」）を同一モデル（gemini-3.5-flash-lite）で3回実行
+    -0.同じ質問（「VLMとは何ですか？」）を同一モデル（gemini-3.5-flash-lite）で3回実行  
     -1.同じ質問（「VLMとは何ですか？」）をモデルを変えて（gemini-3.5-flash-lite,gemini-3.8-flash,gemini-3.1-flash-lite）実行  
     -2.同じ質問（「VLMとは何ですか？」）をtempareatureを変えて（0.2,1.0,0.0）実行 モデルはgemini-3.5-flash-lite  
 
